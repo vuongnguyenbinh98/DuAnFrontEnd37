@@ -5,4 +5,5 @@ var khoaHoc = function (){
     this.LuotXem = '';
     this.NguoiTao = '';
     this.MoTa ='';
+    this.Desc = '';
 }
