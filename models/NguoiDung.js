@@ -4,5 +4,6 @@ var NguoiDung = function(){
     this.Tuoi = '';
     this.GioiTinh = '';
     this.QuocTich ='';
+    this.giagiapha='';
 }
 
