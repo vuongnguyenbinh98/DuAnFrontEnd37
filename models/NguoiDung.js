@@ -3,4 +3,6 @@ var NguoiDung = function(){
     this.HoTen = '';
     this.Tuoi = '';
     this.GioiTinh = '';
+    this.QuocTich ='';
+    this.giagiapha='';
 }
