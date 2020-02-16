@@ -5,4 +5,5 @@ var NguoiDung = function(){
     this.GioiTinh = '';
     this.QuocTich ='';
     this.giagiapha='';
+    this.mont = '';
 }
