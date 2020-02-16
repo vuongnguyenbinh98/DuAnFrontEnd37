@@ -6,4 +6,5 @@ var khoaHoc = function (){
     this.NguoiTao = '';
     this.MoTa ='';
     this.Desc = '';
+    this.MonHoc = '';
 }
